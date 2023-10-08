@@ -1,13 +1,21 @@
-# Webtoon Training Slides
+# Webtoon Training
 
-**slides for a full stack web development | MERN course**
+**Full Stack web development | MERN**
 
-- ## Class -1 (Introduction to web)
-
-[Introduction to web](./assest/pdf/-1-%20Introduction%20To%20Web%20.pdf)
+[Training Slides...](./ShaiSlides.md)
 
 ---
 
-- ## Class -2 ()
+## Technical Interview Questions
 
-[Introduction to web](./assest/pdf/-1-%20Introduction%20To%20Web%20.pdf)
+-
+-
+-
+-
+-
+-
+-
+
+---
+
+[Useful Link](https://www.interviewbit.com/javascript-interview-questions/#different-data-types-present-in-javascript)
