@@ -1,10 +1,9 @@
 # Webtoon Training
 
-**Full Stack web development | MERN**
+**"Full Stack web development | MERN"**
 
 [Training Slides...](./ShaiSlides.md)
 
----
 
 ## Technical Interview Questions
 
