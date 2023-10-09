@@ -8,6 +8,8 @@
 
 ---
 
-- ### Class -2 ()
+- ### Class -2 (HTML)
 
-[Introduction to web](./assest/pdf/-1-%20Introduction%20To%20Web%20.pdf)
+[HTML](./assest/pdf/-2-%20HTML.pdf)
+
+---
