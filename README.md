@@ -6,7 +6,7 @@
 
 ## Technical Interview Questions
 
-- [Hoisting in javascript](./technical%20interview%20questions/Hoisting.md)
+- [Hoisting in javascript](./technicalInterview/Hoisting.md)
 -
 -
 -
