@@ -1,6 +1,6 @@
 # Hoisting in javascript
 
-_Hoisting work with (var) & function(), and doesn't work with (let or const) and arrow function_
+> _Hoisting work with (var) & function(), and doesn't work with (let or const) and arrow function_
 
 - ### Explain Hoisting in javascript ?
 
