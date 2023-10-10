@@ -7,20 +7,9 @@
 ## Technical Interview Questions
 
 - [Hoisting in javascript](./technicalInterview/Hoisting.md)
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+- [Differences](./technicalInterview/Difference.md)
+- [What is](./technicalInterview/WhatIs.md)
+
+---
 
 _[Useful Link](https://www.interviewbit.com/javascript-interview-questions/#different-data-types-present-in-javascript)_
