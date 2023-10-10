@@ -9,6 +9,7 @@
 - [Hoisting in javascript](./technicalInterview/Hoisting.md)
 - [Differences](./technicalInterview/Difference.md)
 - [What is](./technicalInterview/WhatIs.md)
+- [array](./technicalInterview/array.md)
 
 ---
 
