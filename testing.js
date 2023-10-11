@@ -55,11 +55,13 @@
 // isNaN(true) // Returns false, since true converted to Number type results in 1 ( a number)
 // isNaN(false) // Returns false
 // isNaN(undefined) // Returns true
-
-console.log(isNaN(undefined));
-
 //////////////////////////////////////////
-//////////////////////////////////////////
+// Remove Duplicate Value From Array
+// let arr = [1, 2, 3, 4, 1, 2, 3];
+// const remove_dublicate = (data) => {
+//   return data.filter((value, index) => data.indexOf(value) === index);
+// };
+// console.log(remove_dublicate(arr));
 //////////////////////////////////////////
 //////////////////////////////////////////
 //////////////////////////////////////////
