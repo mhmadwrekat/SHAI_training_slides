@@ -13,10 +13,15 @@
 | [1,2,3]      | .reverse()  | Reverses the order of array elements               | [3,2,1]      |
 
 ---
+
 - ### Remove Duplicates From a JavaScript Array ?
 
-`let arr = [1, 2, 3, 4, 1, 2, 3];
+let arr = [1, 2, 3, 4, 1, 2, 3];
+
 const remove_dublicate = (data) => {
+
 return data.filter((value, index) => data.indexOf(value) === index);
+
 };
-console.log(remove_dublicate(arr));`
+
+console.log(remove_dublicate(arr));
