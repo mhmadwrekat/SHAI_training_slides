@@ -10,6 +10,7 @@
 - [Differences](./technicalInterview/Difference.md)
 - [What is](./technicalInterview/WhatIs.md)
 - [array](./technicalInterview/array.md)
+- [Cookies vs local storage vs session storage](./technicalInterview/Cookies.md)
 
 ---
 
