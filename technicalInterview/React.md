@@ -69,6 +69,14 @@
 
 1. JSX is syntax extension for JS that allows developers to write HTML like elements in their JS code.
 2. used to describe the structure and content of a component.
+
 ---
 
-- ### 
+- ### How does server-side rendering work in react.js ?
+
+1. server side rendering involves rendering the initial HTML on the server, rather than in the browser.
+2. this can hrlp improve performance especially for slower devices.
+
+---
+
+- ###
