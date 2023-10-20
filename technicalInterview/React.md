@@ -2,9 +2,9 @@
 
 - ### What is React.js and how does it differ from other js libraries ?
 
-React is JavaScript Library for building user interfaces.
-it allows developers to create reusable UI components and manage the starte and props for those components.
-it differs from other JS libraries is that it focuses on the view layer of an application.
+1. React is JavaScript Library for building user interfaces.
+2. it allows developers to create reusable UI components and manage the state and props for those components.
+3. it differs from other JS libraries is that it focuses on the view layer of an application.
 
 ---
 
@@ -35,4 +35,40 @@ it differs from other JS libraries is that it focuses on the view layer of an ap
 
 ---
 
-- ###
+- ### What are the components in react.js and how are they used ?
+
+1. components in react.js are the building blocks of a react app.
+2. they are used to create reusable UI elements.
+3. components accept inputs called props and manage their own state.
+
+---
+
+- ### How does react.js handle state and props ?
+
+1. state in react.js refers to the data variables that determine a components behavior and render its content.
+2. state can be changed within a component, which will trigger a re-render.
+3. props are inouts passed to component from its parent.
+4. they are read only and cannot be changed within the component.
+
+---
+
+- ### what is the component lifecycle in react.js ?
+
+1. componentDidMount : executed after the first render.
+2. componentDidUpdate : executed after each update.
+3. componentWillUnmount : executed before the compoent is removed from the DOM.
+
+---
+
+- ### How do you handle routing in react.js app ?
+  routing is typically handled using a library such as react router.
+
+---
+
+- ### What is the JSX and how it used in react.js ?
+
+1. JSX is syntax extension for JS that allows developers to write HTML like elements in their JS code.
+2. used to describe the structure and content of a component.
+---
+
+- ### 
